@@ -12,7 +12,7 @@ const {
 // 🌙 APRESMINUIT — GIVEAWAY BOT V10
 // =====================================================
 
-const PREFIX = "-";
+const PREFIX = ".";
 const giveaways = new Map();
 
 // =====================================================
